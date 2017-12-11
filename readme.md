@@ -1,6 +1,4 @@
-Instacart
-
-For study purposer only.
+For study purpose only.
 
 The problem can be found here
-https://www.kaggle.com/c/instacart-market-basket-analysis"# instacart" 
+https://www.kaggle.com/c/instacart-market-basket-analysis
